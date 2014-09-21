@@ -9,7 +9,7 @@
 #import "STHelpers.h"
 
 @implementation STHelpers
--(void)test {
++(void)test {
     NSLog(@"STHelpers > test");
 }
 @end

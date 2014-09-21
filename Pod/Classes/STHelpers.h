@@ -10,6 +10,6 @@
 
 @interface STHelpers : NSObject
 
--(void)test;
++(void)test;
 
 @end
